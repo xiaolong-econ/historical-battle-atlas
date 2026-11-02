@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="An evolving atlas of historical battles and sieges. Explore a dated research dataset on modern geography, with sources and uncertainty visible.">
+  <meta name="color-scheme" content="light dark">
+  <title>Historical Battle Atlas</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script defer src="assets/vendor/d3.v7.min.js"></script>
+  <script defer src="assets/app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#atlas">Skip to map</a>
+  <header class="site-header">
+    <a class="brand" href="./">Historical Battle Atlas</a>
+    <nav aria-label="Main navigation"><a href="#method">About the data</a><a href="https://github.com/xiaolong-econ/historical-battle-atlas">GitHub ↗</a></nav>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="title">
+      <div class="eyebrow">An evolving research atlas <span class="pilot">Pilot dataset</span></div>
+      <h1 id="title">Explore conflict across time.</h1>
+      <p>Historical battles and sieges on modern geography. Follow the dates, inspect the sources, and keep the gaps in view.</p>
+    </section>
+    <div class="coverage"><strong>Blank regions do not mean peace.</strong> This pilot maps entries from one book. Coverage is incomplete and uneven across regions.</div>
+    <section id="atlas" aria-label="Interactive battle atlas">
+      <div class="time-controls">
+        <div class="year-control"><label for="year-start">From <output id="start-label">—</output></label><input id="year-start" type="range" aria-label="Start year" disabled></div>
+        <div class="year-control"><label for="year-end">Through <output id="end-label">—</output></label><input id="year-end" type="range" aria-label="End year" disabled></div>
+        <button id="full-period" type="button" disabled>Full period</button>
+      </div>
+      <div class="atlas-grid">
+        <div class="map-column">
+          <div class="map-toolbar">
+            <label for="map-view">View <select id="map-view"><option value="world">World</option><option value="europe">Europe &amp; Mediterranean</option><option value="asia">Asia</option><option value="africa">Africa</option><option value="americas">Americas</option></select></label>
+            <span id="record-count" role="status">Loading the atlas…</span>
+          </div>
+          <div id="map-stage"><svg id="map" role="img" aria-label="Battle locations on modern country outlines"><title>Historical battle locations</title><desc>Approximate reference points, filtered by the selected year interval. An empty region does not establish an absence of conflict.</desc></svg><div class="zoom-controls"><button id="zoom-in" type="button" aria-label="Zoom in">+</button><button id="zoom-out" type="button" aria-label="Zoom out">−</button></div></div>
+          <div class="map-legend"><span class="legend-dot"></span>One dot per mapped entry · equal size · approximate locations</div>
+          <p class="map-help">Select a dot or choose an entry. Drag to pan; scroll or use +/− to zoom. Overlapping entries remain individually available in the list.</p>
+        </div>
+        <aside class="entry-panel" aria-label="Selected event">
+          <label for="event-picker">Battle or siege</label>
+          <select id="event-picker" disabled><option>Loading entries…</option></select>
+          <div id="event-detail" aria-live="polite"></div>
+        </aside>
+      </div>
+      <p id="error" role="alert" hidden></p>
+    </section>
+    <section id="method" class="methods" aria-labelledby="method-title">
+      <div><div class="eyebrow">Read the map carefully</div><h2 id="method-title">A starting point for research.</h2><p>This is an unfinished dataset, designed to grow. The initial release covers book entries dated 1340–1370. Events, dates, locations, and death estimates require further historical verification.</p><div class="data-links"><a class="button" href="data/battles.geojson" download>Download the data</a><a href="https://github.com/xiaolong-econ/historical-battle-atlas#continuing-the-project">Continue the project ↗</a></div></div>
+      <div class="method-notes">
+        <details open><summary>Coverage and missing conflicts</summary><p>The initial source is Tony Jaques’s <cite>Dictionary of Battles and Sieges</cite> (2007). Its preface generally excludes events preserved only in oral history and acknowledges omissions in pre-European sub-Saharan Africa. Counts reflect the source’s coverage as well as history. Regional histories and archaeological evidence will be needed to broaden the dataset.</p></details>
+        <details><summary>Dates, locations, and borders</summary><p>Entries are shown whenever their recorded year interval overlaps the selected years. A year range may describe a siege, a combined entry, or an uncertain date; it does not establish continuous fighting. Coordinates are approximate reference points, sometimes town or lake centers. Modern country outlines provide orientation and do not represent medieval borders. Unresolved entries stay in the list without a map point.</p></details>
+        <details><summary>Deaths and dot size</summary><p>Dots currently have equal size. This does not imply equal severity. Death estimates are unvalidated; missing values are unknown, not zero. Future estimates should distinguish military and civilian deaths from wounded, captured, or missing people, preserve alternative sources and ranges, and scale dot area to the chosen measure.</p><a href="data/unverified-death-claims.json">Inspect the separate unverified claims</a></details>
+        <details><summary>Sources and reuse</summary><p>Every entry retains its source and page references. Coordinates are provisionally sourced from Wikipedia GeoData or Wikidata; the map uses @d3-maps/atlas 1.0.0 country geometry. These sources have their own terms. The original book and its full entry text are not included. Public availability does not make this a validated or uniformly licensed dataset.</p><a href="data/provenance.json">Dataset provenance</a> · <a href="THIRD_PARTY_NOTICES.md">Source and dependency notices</a></details>
+      </div>
+    </section>
+  </main>
+  <footer><span>Historical Battle Atlas · research in progress</span><span id="dataset-range">Pilot: 1340–1370</span></footer>
+  <noscript><p>This map needs JavaScript. You can still <a href="data/battles.geojson">download the dataset</a> and open it in QGIS.</p></noscript>
+</body>
+</html>
