@@ -1,0 +1,39 @@
+[
+  {
+    "battle_id": "JQ-033",
+    "battle": "Mauron",
+    "pdf_page": 702,
+    "measure": "French killed",
+    "upper_estimate": 2000,
+    "lower_estimate": null,
+    "qualifier": "up to; book claim",
+    "validated": false
+  },
+  {
+    "battle_id": "JQ-030",
+    "battle": "Limoges",
+    "pdf_page": 645,
+    "measure": "People killed; military/civilian split unspecified",
+    "estimate": 3000,
+    "qualifier": "reported; book claim",
+    "validated": false
+  },
+  {
+    "battle_id": "JQ-062",
+    "battle": "Tashkent",
+    "pdf_page": 1057,
+    "measure": "Dead associated with defeated army",
+    "estimate": 10000,
+    "qualifier": "reported; book claim",
+    "validated": false
+  },
+  {
+    "battle_id": "JQ-063",
+    "battle": "Combat of the Thirty",
+    "pdf_page": 1071,
+    "measure": "English-side killed only",
+    "estimate": 9,
+    "qualifier": "partial side-specific count; book claim",
+    "validated": false
+  }
+]

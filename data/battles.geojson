@@ -1,0 +1,2566 @@
+{
+  "type": "FeatureCollection",
+  "name": "Book entries 1340–1370: research prototype",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55556,
+          41.67694
+        ]
+      },
+      "properties": {
+        "id": "JQ-001",
+        "name": "Adrianople",
+        "book_entry": "Adrianople",
+        "year_start": 1355,
+        "year_end": 1355,
+        "book_date": "1355",
+        "modern_country": "Türkiye",
+        "summary": "The book describes a Serbian victory and capture of the city.",
+        "pdf_page": 69,
+        "printed_page": 12,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date retained; prioritize independent date/event verification",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Edirne",
+        "coordinate_source": "https://en.wikipedia.org/?curid=216887",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Serbian Imperial Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.55556,
+          41.67694
+        ]
+      },
+      "properties": {
+        "id": "JQ-002",
+        "name": "Adrianople",
+        "book_entry": "Adrianople",
+        "year_start": 1362,
+        "year_end": 1362,
+        "book_date": "1362",
+        "modern_country": "Türkiye",
+        "summary": "Ottoman forces captured the city, which became an Ottoman capital.",
+        "pdf_page": 69,
+        "printed_page": 12,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date retained; prioritize independent date/event verification",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Edirne",
+        "coordinate_source": "https://en.wikipedia.org/?curid=216887",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Byzantine-Ottoman Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3375,
+          44.30056
+        ]
+      },
+      "properties": {
+        "id": "JQ-003",
+        "name": "Aiguillon",
+        "book_entry": "Aiguillon",
+        "year_start": 1346,
+        "year_end": 1346,
+        "book_date": "1346",
+        "modern_country": "France",
+        "summary": "The English-held garrison resisted a French siege.",
+        "pdf_page": 75,
+        "printed_page": 18,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Aiguillon, Lot-et-Garonne",
+        "coordinate_source": "https://en.wikipedia.org/?curid=1099116",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91667,
+          37.45
+        ]
+      },
+      "properties": {
+        "id": "JQ-004",
+        "name": "Alcalá",
+        "book_entry": "Alcala´",
+        "year_start": 1340,
+        "year_end": 1340,
+        "book_date": "1340",
+        "modern_country": "Spain",
+        "summary": "Castilian forces captured the fortified town from Muslim defenders.",
+        "pdf_page": 82,
+        "printed_page": 25,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date retained; prioritize independent date/event verification",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Alcalá la Real",
+        "coordinate_source": "https://en.wikipedia.org/?curid=13121947",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Later Christian Reconquest of Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8925,
+          31.1975
+        ]
+      },
+      "properties": {
+        "id": "JQ-005",
+        "name": "Alexandria",
+        "book_entry": "Alexandria",
+        "year_start": 1365,
+        "year_end": 1365,
+        "book_date": "1365",
+        "modern_country": "Egypt",
+        "summary": "Peter of Cyprus's expedition captured and sacked the city.",
+        "pdf_page": 87,
+        "printed_page": 30,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Alexandria",
+        "coordinate_source": "https://en.wikipedia.org/?curid=3080",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Egyptian Crusade of Peter of Cyprus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45389,
+          36.1275
+        ]
+      },
+      "properties": {
+        "id": "JQ-006",
+        "name": "Algeciras",
+        "book_entry": "Algeciras",
+        "year_start": 1340,
+        "year_end": 1340,
+        "book_date": "1340",
+        "modern_country": "Spain",
+        "summary": "A Muslim naval force defeated the Castilian fleet.",
+        "pdf_page": 88,
+        "printed_page": 31,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Algeciras",
+        "coordinate_source": "https://en.wikipedia.org/?curid=351162",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Later Christian Reconquest of Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45389,
+          36.1275
+        ]
+      },
+      "properties": {
+        "id": "JQ-007",
+        "name": "Algeciras",
+        "book_entry": "Algeciras",
+        "year_start": 1343,
+        "year_end": 1344,
+        "book_date": "1343–1344",
+        "modern_country": "Spain",
+        "summary": "A Castilian siege ended with the city's surrender.",
+        "pdf_page": 88,
+        "printed_page": 31,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Algeciras",
+        "coordinate_source": "https://en.wikipedia.org/?curid=351162",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Later Christian Reconquest of Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.315,
+          40.56
+        ]
+      },
+      "properties": {
+        "id": "JQ-008",
+        "name": "Alghero",
+        "book_entry": "Alghero",
+        "year_start": 1353,
+        "year_end": 1354,
+        "book_date": "1353–1354",
+        "modern_country": "Italy",
+        "summary": "Aragonese naval and siege operations secured the city from Genoese control.",
+        "pdf_page": 89,
+        "printed_page": 32,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Alghero",
+        "coordinate_source": "https://en.wikipedia.org/?curid=45551",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Aragon’s Conquest of Sardinia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.89583,
+          45.20889
+        ]
+      },
+      "properties": {
+        "id": "JQ-009",
+        "name": "Auberoche",
+        "book_entry": "Auberoche",
+        "year_start": 1345,
+        "year_end": 1345,
+        "book_date": "1345",
+        "modern_country": "France",
+        "summary": "An English relief force defeated the French besiegers.",
+        "pdf_page": 138,
+        "printed_page": 81,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Auberoche",
+        "coordinate_source": "https://en.wikipedia.org/?curid=3216159",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9814,
+          47.6686
+        ]
+      },
+      "properties": {
+        "id": "JQ-010",
+        "name": "Auray",
+        "book_entry": "Auray",
+        "year_start": 1364,
+        "year_end": 1364,
+        "book_date": "1364",
+        "modern_country": "France",
+        "summary": "The Montfortist victory settled the Breton succession in John of Montfort's favor.",
+        "pdf_page": 140,
+        "printed_page": 83,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Auray",
+        "coordinate_source": "https://en.wikipedia.org/?curid=329899",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.89806,
+          36.75806
+        ]
+      },
+      "properties": {
+        "id": "JQ-011",
+        "name": "Balkh",
+        "book_entry": "Balkh",
+        "year_start": 1370,
+        "year_end": 1370,
+        "book_date": "1370",
+        "modern_country": "Afghanistan",
+        "summary": "Timur captured Balkh and eliminated his rival Husayn.",
+        "pdf_page": 158,
+        "printed_page": 101,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Balkh",
+        "coordinate_source": "https://en.wikipedia.org/?curid=332847",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Conquests of Tamerlane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9439,
+          48.2961
+        ]
+      },
+      "properties": {
+        "id": "JQ-012",
+        "name": "Bécherel",
+        "book_entry": "Be´cherel",
+        "year_start": 1363,
+        "year_end": 1363,
+        "book_date": "1363",
+        "modern_country": "France",
+        "summary": "Du Guesclin defeated Montfort's forces during the Breton succession conflict.",
+        "pdf_page": 178,
+        "printed_page": 121,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Bécherel",
+        "coordinate_source": "https://en.wikipedia.org/?curid=2898490",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48611,
+          48.39056
+        ]
+      },
+      "properties": {
+        "id": "JQ-013",
+        "name": "Brest",
+        "book_entry": "Brest",
+        "year_start": 1342,
+        "year_end": 1342,
+        "book_date": "1342",
+        "modern_country": "France",
+        "summary": "An English naval intervention lifted the siege.",
+        "pdf_page": 221,
+        "printed_page": 164,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Brest, France",
+        "coordinate_source": "https://en.wikipedia.org/?curid=57912",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.755,
+          45.6747
+        ]
+      },
+      "properties": {
+        "id": "JQ-014",
+        "name": "Brignais",
+        "book_entry": "Brignais",
+        "year_start": 1362,
+        "year_end": 1362,
+        "book_date": "1362",
+        "modern_country": "France",
+        "summary": "Mercenary companies defeated a French royal army.",
+        "pdf_page": 222,
+        "printed_page": 165,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Brignais",
+        "coordinate_source": "https://en.wikipedia.org/?curid=16025882",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36361,
+          49.18139
+        ]
+      },
+      "properties": {
+        "id": "JQ-015",
+        "name": "Caen",
+        "book_entry": "Caen",
+        "year_start": 1346,
+        "year_end": 1346,
+        "book_date": "1346",
+        "modern_country": "France",
+        "summary": "Edward III's army stormed and captured the city.",
+        "pdf_page": 239,
+        "printed_page": 182,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Caen",
+        "coordinate_source": "https://en.wikipedia.org/?curid=92443",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.85639,
+          50.94806
+        ]
+      },
+      "properties": {
+        "id": "JQ-016",
+        "name": "Calais",
+        "book_entry": "Calais",
+        "year_start": 1346,
+        "year_end": 1347,
+        "book_date": "1346–1347",
+        "modern_country": "France",
+        "summary": "The city surrendered to Edward III after a prolonged siege.",
+        "pdf_page": 241,
+        "printed_page": 184,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Calais",
+        "coordinate_source": "https://en.wikipedia.org/?curid=85468",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3647,
+          49.0747
+        ]
+      },
+      "properties": {
+        "id": "JQ-017",
+        "name": "Cocherel",
+        "book_entry": "Cocherel",
+        "year_start": 1364,
+        "year_end": 1364,
+        "book_date": "1364",
+        "modern_country": "France",
+        "summary": "French royal forces defeated the Navarrese army and its English supporters.",
+        "pdf_page": 308,
+        "printed_page": 251,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Cocherel",
+        "coordinate_source": "https://en.wikipedia.org/?curid=3219561",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.955,
+          41.01361
+        ]
+      },
+      "properties": {
+        "id": "JQ-018",
+        "name": "Constantinople",
+        "book_entry": "Constantinople",
+        "year_start": 1352,
+        "year_end": 1352,
+        "book_date": "1352",
+        "modern_country": "Türkiye",
+        "summary": "A naval engagement left Byzantium seeking peace with Genoa.",
+        "pdf_page": 315,
+        "printed_page": 258,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Istanbul",
+        "coordinate_source": "https://en.wikipedia.org/?curid=3391396",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Venetian-Genoese Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56833,
+          55.67611
+        ]
+      },
+      "properties": {
+        "id": "JQ-019",
+        "name": "Copenhagen",
+        "book_entry": "Copenhagen",
+        "year_start": 1362,
+        "year_end": 1362,
+        "book_date": "1362",
+        "modern_country": "Denmark",
+        "summary": "A Hanseatic allied fleet sacked Copenhagen.",
+        "pdf_page": 317,
+        "printed_page": 260,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Copenhagen",
+        "coordinate_source": "https://en.wikipedia.org/?curid=5166",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Wars of the Hanseatic League"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.88778,
+          50.25639
+        ]
+      },
+      "properties": {
+        "id": "JQ-020",
+        "name": "Crécy",
+        "book_entry": "Crecy",
+        "year_start": 1346,
+        "year_end": 1346,
+        "book_date": "1346",
+        "modern_country": "France",
+        "summary": "Edward III's army defeated Philip VI's French army.",
+        "pdf_page": 327,
+        "printed_page": 270,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Crécy",
+        "coordinate_source": "https://en.wikipedia.org/?curid=58916",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5,
+          41.35
+        ]
+      },
+      "properties": {
+        "id": "JQ-021",
+        "name": "Didymoteichon",
+        "book_entry": "Didymoteichon",
+        "year_start": 1352,
+        "year_end": 1352,
+        "book_date": "1352",
+        "modern_country": "Greece",
+        "summary": "Ottoman troops supporting John VI defeated Serbian troops supporting John V.",
+        "pdf_page": 358,
+        "printed_page": 301,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Didymoteicho",
+        "coordinate_source": "https://en.wikipedia.org/?curid=1671114",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Byzantine-Ottoman Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.283,
+          41.6
+        ]
+      },
+      "properties": {
+        "id": "JQ-022",
+        "name": "Épila",
+        "book_entry": "Epila",
+        "year_start": 1348,
+        "year_end": 1348,
+        "book_date": "1348",
+        "modern_country": "Spain",
+        "summary": "Royal victory broke the rebellion of Aragonese nobles.",
+        "pdf_page": 393,
+        "printed_page": 336,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Épila",
+        "coordinate_source": "https://en.wikipedia.org/?curid=8148914",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Aragonese Civil War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.15,
+          46.8
+        ]
+      },
+      "properties": {
+        "id": "JQ-023",
+        "name": "Fribourg",
+        "book_entry": "Fribourg",
+        "year_start": 1340,
+        "year_end": 1340,
+        "book_date": "1340",
+        "modern_country": "Switzerland",
+        "summary": "Bernese forces defeated Fribourg and its allies.",
+        "pdf_page": 431,
+        "printed_page": 374,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Fribourg",
+        "coordinate_source": "https://en.wikipedia.org/?curid=164065",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Burgundian-Swiss Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.67028,
+          40.41389
+        ]
+      },
+      "properties": {
+        "id": "JQ-024",
+        "name": "Gallipoli",
+        "book_entry": "Gallipoli",
+        "year_start": 1354,
+        "year_end": 1354,
+        "book_date": "1354",
+        "modern_country": "Türkiye",
+        "summary": "Ottoman forces occupied the city after an earthquake damaged its defenses.",
+        "pdf_page": 437,
+        "printed_page": 380,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Gelibolu",
+        "coordinate_source": "https://en.wikipedia.org/?curid=684136",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Byzantine-Ottoman Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.67028,
+          40.41389
+        ]
+      },
+      "properties": {
+        "id": "JQ-025",
+        "name": "Gallipoli",
+        "book_entry": "Gallipoli",
+        "year_start": 1366,
+        "year_end": 1366,
+        "book_date": "1366",
+        "modern_country": "Türkiye",
+        "summary": "Amadeus of Savoy captured the city and returned it to Byzantine control.",
+        "pdf_page": 438,
+        "printed_page": 381,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Gelibolu",
+        "coordinate_source": "https://en.wikipedia.org/?curid=684136",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Byzantine-Ottoman Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.71667,
+          56.05
+        ]
+      },
+      "properties": {
+        "id": "JQ-026",
+        "name": "Helsingborg",
+        "book_entry": "Helsingborg",
+        "year_start": 1362,
+        "year_end": 1362,
+        "book_date": "1362",
+        "modern_country": "Sweden",
+        "summary": "Danish forces defeated the Hanseatic allied fleet.",
+        "pdf_page": 499,
+        "printed_page": 442,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Helsingborg",
+        "coordinate_source": "https://en.wikipedia.org/?curid=1019398",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Wars of the Hanseatic League"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2775,
+          47.805
+        ]
+      },
+      "properties": {
+        "id": "JQ-027",
+        "name": "Hennebont",
+        "book_entry": "Hennebont",
+        "year_start": 1341,
+        "year_end": 1342,
+        "book_date": "1341–1342",
+        "modern_country": "France",
+        "summary": "Jeanne de Montfort held the town until English relief arrived.",
+        "pdf_page": 500,
+        "printed_page": 443,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Hennebont",
+        "coordinate_source": "https://en.wikipedia.org/?curid=2678550",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.16,
+          57.03889
+        ]
+      },
+      "properties": {
+        "id": "JQ-028",
+        "name": "Invernahavon",
+        "book_entry": "Invernahavon",
+        "year_start": 1370,
+        "year_end": 1370,
+        "book_date": "1370",
+        "modern_country": "United Kingdom",
+        "summary": "A clan coalition defeated the Camerons; the book dates the battle to 1370.",
+        "pdf_page": 530,
+        "printed_page": 473,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date retained; prioritize independent date/event verification",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Invernahavon",
+        "coordinate_source": "https://en.wikipedia.org/?curid=18513015",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Scottish Clan Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "JQ-029",
+        "name": "Kauthal",
+        "book_entry": "Kauthal",
+        "year_start": 1367,
+        "year_end": 1367,
+        "book_date": "1367",
+        "modern_country": "India",
+        "summary": "The book reports a Bahmani victory over Vijayanagara forces.",
+        "pdf_page": 573,
+        "printed_page": 516,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date retained; prioritize independent date/event verification",
+        "geocode_status": "Unresolved; not mapped",
+        "geocode_place": null,
+        "coordinate_source": null,
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Historical-to-modern location match requires further research.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Vijayanagar-Bahmani Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2625,
+          45.8353
+        ]
+      },
+      "properties": {
+        "id": "JQ-030",
+        "name": "Limoges",
+        "book_entry": "Limoges",
+        "year_start": 1370,
+        "year_end": 1370,
+        "book_date": "1370",
+        "modern_country": "France",
+        "summary": "The Black Prince's forces recaptured and sacked the city.",
+        "pdf_page": 645,
+        "printed_page": 588,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Limoges",
+        "coordinate_source": "https://en.wikipedia.org/?curid=177195",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.50278,
+          43.84167
+        ]
+      },
+      "properties": {
+        "id": "JQ-031",
+        "name": "Lucca",
+        "book_entry": "Lucca",
+        "year_start": 1341,
+        "year_end": 1341,
+        "book_date": "1341",
+        "modern_country": "Italy",
+        "summary": "Pisa defeated Florence and subsequently took Lucca.",
+        "pdf_page": 660,
+        "printed_page": 603,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Lucca",
+        "coordinate_source": "https://en.wikipedia.org/?curid=46169",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Florentine-Pisan Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "JQ-032",
+        "name": "Maritza",
+        "book_entry": "Maritza",
+        "year_start": 1363,
+        "year_end": 1363,
+        "book_date": "1363",
+        "modern_country": "Unresolved",
+        "summary": "The book describes an Ottoman victory over a Christian coalition; event identity and date need review.",
+        "pdf_page": 693,
+        "printed_page": 636,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date retained; prioritize independent date/event verification",
+        "geocode_status": "Unresolved; not mapped",
+        "geocode_place": null,
+        "coordinate_source": null,
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Historical-to-modern location match requires further research.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Ottoman Conquest of the Balkans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2847,
+          48.0831
+        ]
+      },
+      "properties": {
+        "id": "JQ-033",
+        "name": "Mauron",
+        "book_entry": "Mauron",
+        "year_start": 1352,
+        "year_end": 1352,
+        "book_date": "1352",
+        "modern_country": "France",
+        "summary": "An English-supported force defeated the French army.",
+        "pdf_page": 702,
+        "printed_page": 645,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Mauron",
+        "coordinate_source": "https://en.wikipedia.org/?curid=13496331",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.86222,
+          38.69639
+        ]
+      },
+      "properties": {
+        "id": "JQ-034",
+        "name": "Montiel",
+        "book_entry": "Montiel",
+        "year_start": 1369,
+        "year_end": 1369,
+        "book_date": "1369",
+        "modern_country": "Spain",
+        "summary": "Henry of Trastámara defeated Pedro of Castile and took the throne.",
+        "pdf_page": 739,
+        "printed_page": 682,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Montiel",
+        "coordinate_source": "https://www.wikidata.org/wiki/Q1610078",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Castilian War of Succession"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8267,
+          48.5783
+        ]
+      },
+      "properties": {
+        "id": "JQ-035",
+        "name": "Morlaix",
+        "book_entry": "Morlaix",
+        "year_start": 1342,
+        "year_end": 1342,
+        "book_date": "1342",
+        "modern_country": "France",
+        "summary": "English forces defeated Charles of Blois's army near Morlaix.",
+        "pdf_page": 743,
+        "printed_page": 686,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Morlaix",
+        "coordinate_source": "https://en.wikipedia.org/?curid=1653967",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.06667,
+          47.1
+        ]
+      },
+      "properties": {
+        "id": "JQ-036",
+        "name": "Näfels",
+        "book_entry": "Nafels",
+        "year_start": 1352,
+        "year_end": 1352,
+        "book_date": "1352",
+        "modern_country": "Switzerland",
+        "summary": "Habsburg troops were defeated near the town.",
+        "pdf_page": 761,
+        "printed_page": 704,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Näfels",
+        "coordinate_source": "https://en.wikipedia.org/?curid=6219822",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Habsburg-Swiss Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.858,
+          28.683
+        ]
+      },
+      "properties": {
+        "id": "JQ-037",
+        "name": "Nanchang",
+        "book_entry": "Nanchang",
+        "year_start": 1363,
+        "year_end": 1363,
+        "book_date": "1363",
+        "modern_country": "China",
+        "summary": "The city's defenders withstood Chen Youliang's siege until relief approached.",
+        "pdf_page": 766,
+        "printed_page": 709,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Nanchang",
+        "coordinate_source": "https://en.wikipedia.org/?curid=386882",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Rise of the Ming Dynasty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77889,
+          32.06083
+        ]
+      },
+      "properties": {
+        "id": "JQ-038",
+        "name": "Nanjing",
+        "book_entry": "Nanjing",
+        "year_start": 1356,
+        "year_end": 1356,
+        "book_date": "1356",
+        "modern_country": "China",
+        "summary": "Zhu Yuanzhang captured the city during the decline of Yuan rule.",
+        "pdf_page": 767,
+        "printed_page": 710,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Nanjing",
+        "coordinate_source": "https://en.wikipedia.org/?curid=21791",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Rise of the Ming Dynasty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7,
+          42.4275
+        ]
+      },
+      "properties": {
+        "id": "JQ-039",
+        "name": "Navarette / Nájera",
+        "book_entry": "Navarette",
+        "year_start": 1367,
+        "year_end": 1367,
+        "book_date": "1367",
+        "modern_country": "Spain",
+        "summary": "The Black Prince's army defeated Henry of Trastámara and restored Pedro of Castile.",
+        "pdf_page": 774,
+        "printed_page": 717,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Nájera",
+        "coordinate_source": "https://en.wikipedia.org/?curid=3180640",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "JQ-040",
+        "name": "Nesbit",
+        "book_entry": "Nesbit",
+        "year_start": 1355,
+        "year_end": 1355,
+        "book_date": "1355",
+        "modern_country": "United Kingdom",
+        "summary": "Scottish troops defeated and captured Thomas Grey.",
+        "pdf_page": 778,
+        "printed_page": 721,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Unresolved; published coordinate conflicts with locality description",
+        "geocode_place": "Battle of Nesbit Moor (1355)",
+        "coordinate_source": "https://www.wikidata.org/wiki/Q4871877",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "The retrieved Wikidata coordinate (55.4523 N, 2.1741 W) conflicts with accounts locating the battle near Duns. Withheld pending verification.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Anglo-Scottish Border Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.59333,
+          54.7725
+        ]
+      },
+      "properties": {
+        "id": "JQ-041",
+        "name": "Neville’s Cross",
+        "book_entry": "Neville’s Cross",
+        "year_start": 1346,
+        "year_end": 1346,
+        "book_date": "1346",
+        "modern_country": "United Kingdom",
+        "summary": "English forces defeated the Scottish invasion and captured David II.",
+        "pdf_page": 780,
+        "printed_page": 723,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Neville's Cross",
+        "coordinate_source": "https://en.wikipedia.org/?curid=376716",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Anglo-Scottish Border Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.40333,
+          46.52222
+        ]
+      },
+      "properties": {
+        "id": "JQ-042",
+        "name": "Poitiers",
+        "book_entry": "Poitiers",
+        "year_start": 1356,
+        "year_end": 1356,
+        "book_date": "1356",
+        "modern_country": "France",
+        "summary": "The Black Prince defeated the French army and captured John II.",
+        "pdf_page": 863,
+        "printed_page": 806,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Poitiers",
+        "coordinate_source": "https://en.wikipedia.org/?curid=4503",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1922,
+          47.7508
+        ]
+      },
+      "properties": {
+        "id": "JQ-043",
+        "name": "Pontvallain",
+        "book_entry": "Pontvallain",
+        "year_start": 1370,
+        "year_end": 1370,
+        "book_date": "1370",
+        "modern_country": "France",
+        "summary": "Du Guesclin defeated an English force during the French recovery.",
+        "pdf_page": 866,
+        "printed_page": 809,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Pontvallain",
+        "coordinate_source": "https://en.wikipedia.org/?curid=15949643",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.28333,
+          29.08333
+        ]
+      },
+      "properties": {
+        "id": "JQ-044",
+        "name": "Poyang Lake",
+        "book_entry": "Poyang Lake",
+        "year_start": 1363,
+        "year_end": 1363,
+        "book_date": "1363",
+        "modern_country": "China",
+        "summary": "Zhu Yuanzhang defeated Chen Youliang's fleet; Chen was killed.",
+        "pdf_page": 873,
+        "printed_page": 816,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Poyang Lake",
+        "coordinate_source": "https://en.wikipedia.org/?curid=539954",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Rise of the Ming Dynasty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5486,
+          47.8736
+        ]
+      },
+      "properties": {
+        "id": "JQ-045",
+        "name": "Quimperlé",
+        "book_entry": "Quimperle´",
+        "year_start": 1342,
+        "year_end": 1342,
+        "book_date": "1342",
+        "modern_country": "France",
+        "summary": "Walter Manny defeated a Spanish force supporting Charles of Blois.",
+        "pdf_page": 890,
+        "printed_page": 833,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Quimperlé",
+        "coordinate_source": "https://en.wikipedia.org/?curid=620865",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6794,
+          48.1147
+        ]
+      },
+      "properties": {
+        "id": "JQ-046",
+        "name": "Rennes",
+        "book_entry": "Rennes",
+        "year_start": 1356,
+        "year_end": 1357,
+        "book_date": "1356–1357",
+        "modern_country": "France",
+        "summary": "The English siege ended with withdrawal after payment.",
+        "pdf_page": 905,
+        "printed_page": 848,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Rennes",
+        "coordinate_source": "https://en.wikipedia.org/?curid=46132",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74528,
+          59.43722
+        ]
+      },
+      "properties": {
+        "id": "JQ-047",
+        "name": "Reval / Tallinn",
+        "book_entry": "Reval",
+        "year_start": 1343,
+        "year_end": 1343,
+        "book_date": "1343",
+        "modern_country": "Estonia",
+        "summary": "The Livonian Order defeated Estonian insurgents outside the city.",
+        "pdf_page": 906,
+        "printed_page": 849,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Tallinn",
+        "coordinate_source": "https://en.wikipedia.org/?curid=31577",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Wars of the Teutonic Knights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0347,
+          49.2628
+        ]
+      },
+      "properties": {
+        "id": "JQ-048",
+        "name": "Rheims / Reims",
+        "book_entry": "Rheims",
+        "year_start": 1359,
+        "year_end": 1360,
+        "book_date": "1359–1360",
+        "modern_country": "France",
+        "summary": "Edward III's siege failed to capture the city.",
+        "pdf_page": 907,
+        "printed_page": 850,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Reims",
+        "coordinate_source": "https://en.wikipedia.org/?curid=48845",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.615,
+          36.045
+        ]
+      },
+      "properties": {
+        "id": "JQ-049",
+        "name": "Rio Salado",
+        "book_entry": "Rio Salado",
+        "year_start": 1340,
+        "year_end": 1340,
+        "book_date": "1340",
+        "modern_country": "Spain",
+        "summary": "Castilian and Portuguese forces defeated the Marinid-Nasrid coalition near Tarifa.",
+        "pdf_page": 913,
+        "printed_page": 856,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Río Salado",
+        "coordinate_source": "https://en.wikipedia.org/?curid=1974450",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Later Christian Reconquest of Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2583,
+          48.7472
+        ]
+      },
+      "properties": {
+        "id": "JQ-050",
+        "name": "La Roche-Derrien",
+        "book_entry": "Roche-Derrien",
+        "year_start": 1347,
+        "year_end": 1347,
+        "book_date": "1347",
+        "modern_country": "France",
+        "summary": "An English relief force defeated and captured Charles of Blois.",
+        "pdf_page": 915,
+        "printed_page": 858,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "La Roche-Derrien",
+        "coordinate_source": "https://en.wikipedia.org/?curid=15301215",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.985,
+          48.6861
+        ]
+      },
+      "properties": {
+        "id": "JQ-051",
+        "name": "Saint-Pol-de-Léon",
+        "book_entry": "St Pol de Le´on",
+        "year_start": 1346,
+        "year_end": 1346,
+        "book_date": "1346",
+        "modern_country": "France",
+        "summary": "Dagworth's force repelled an attack by Charles of Blois.",
+        "pdf_page": 941,
+        "printed_page": 884,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Saint-Pol-de-Léon",
+        "coordinate_source": "https://en.wikipedia.org/?curid=3124569",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6333,
+          45.7464
+        ]
+      },
+      "properties": {
+        "id": "JQ-052",
+        "name": "Saintes",
+        "book_entry": "Saintes",
+        "year_start": 1351,
+        "year_end": 1351,
+        "book_date": "1351",
+        "modern_country": "France",
+        "summary": "An English force defeated the French and captured their commanders.",
+        "pdf_page": 942,
+        "printed_page": 885,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Saintes, Charente-Maritime",
+        "coordinate_source": "https://en.wikipedia.org/?curid=1862514",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.70503,
+          36.77175
+        ]
+      },
+      "properties": {
+        "id": "JQ-053",
+        "name": "Sapienza",
+        "book_entry": "Sapienza",
+        "year_start": 1354,
+        "year_end": 1354,
+        "book_date": "1354",
+        "modern_country": "Greece",
+        "summary": "The Genoese fleet defeated the Venetians near Methoni.",
+        "pdf_page": 967,
+        "printed_page": 910,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Sapientza",
+        "coordinate_source": "https://en.wikipedia.org/?curid=4904841",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Venetian-Genoese Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35472,
+          43.99278
+        ]
+      },
+      "properties": {
+        "id": "JQ-054",
+        "name": "Scarperia",
+        "book_entry": "Scarperia",
+        "year_start": 1351,
+        "year_end": 1351,
+        "book_date": "1351",
+        "modern_country": "Italy",
+        "summary": "The town resisted a Milanese siege until a Florentine relief force arrived.",
+        "pdf_page": 975,
+        "printed_page": 918,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Scarperia",
+        "coordinate_source": "https://www.wikidata.org/wiki/Q82846",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Florentine-Milanese Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5833,
+          30.0511
+        ]
+      },
+      "properties": {
+        "id": "JQ-055",
+        "name": "Shaoxing",
+        "book_entry": "Shaoxing",
+        "year_start": 1359,
+        "year_end": 1359,
+        "book_date": "1359",
+        "modern_country": "China",
+        "summary": "Zhang Shicheng's defenders resisted an attack by Zhu Yuanzhang's forces.",
+        "pdf_page": 990,
+        "printed_page": 933,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Shaoxing",
+        "coordinate_source": "https://en.wikipedia.org/?curid=301263",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Rise of the Ming Dynasty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.63944,
+          34.74
+        ]
+      },
+      "properties": {
+        "id": "JQ-056",
+        "name": "Shijōnawate",
+        "book_entry": "Shijo Nawate",
+        "year_start": 1348,
+        "year_end": 1348,
+        "book_date": "1348",
+        "modern_country": "Japan",
+        "summary": "Ashikaga forces defeated the Southern Court army; Kusunoki Masatsura was killed.",
+        "pdf_page": 992,
+        "printed_page": 935,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Shijōnawate",
+        "coordinate_source": "https://en.wikipedia.org/?curid=329231",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "War of the Japanese Emperors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.38611,
+          51.30833
+        ]
+      },
+      "properties": {
+        "id": "JQ-057",
+        "name": "Sluys",
+        "book_entry": "Sluys",
+        "year_start": 1340,
+        "year_end": 1340,
+        "book_date": "1340",
+        "modern_country": "Netherlands",
+        "summary": "Edward III's fleet defeated the French fleet in the Zwin estuary.",
+        "pdf_page": 1009,
+        "printed_page": 952,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Sluis",
+        "coordinate_source": "https://en.wikipedia.org/?curid=168414",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.13222,
+          38.42444
+        ]
+      },
+      "properties": {
+        "id": "JQ-058",
+        "name": "Smyrna / İzmir",
+        "book_entry": "Smyrna",
+        "year_start": 1344,
+        "year_end": 1344,
+        "book_date": "1344",
+        "modern_country": "Türkiye",
+        "summary": "A crusading fleet captured the port from the Aydin emirate.",
+        "pdf_page": 1011,
+        "printed_page": 954,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "İzmir",
+        "coordinate_source": "https://en.wikipedia.org/?curid=580279",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Later Crusader-Muslim Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "id": "JQ-059",
+        "name": "Stefaniana",
+        "book_entry": "Stefaniana",
+        "year_start": 1344,
+        "year_end": 1344,
+        "book_date": "1344",
+        "modern_country": "Greece",
+        "summary": "An Aydin force defeated Serbian cavalry near Thessaloniki; the site remains unresolved here.",
+        "pdf_page": 1026,
+        "printed_page": 969,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Unresolved; not mapped",
+        "geocode_place": null,
+        "coordinate_source": null,
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Historical-to-modern location match requires further research.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Serbian Imperial Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61944,
+          31.3
+        ]
+      },
+      "properties": {
+        "id": "JQ-060",
+        "name": "Suzhou",
+        "book_entry": "Suzhou",
+        "year_start": 1366,
+        "year_end": 1367,
+        "book_date": "1366–1367",
+        "modern_country": "China",
+        "summary": "Zhu Yuanzhang's army captured Zhang Shicheng's capital.",
+        "pdf_page": 1038,
+        "printed_page": 981,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Suzhou",
+        "coordinate_source": "https://en.wikipedia.org/?curid=292011",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Rise of the Ming Dynasty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.78333,
+          48.65833
+        ]
+      },
+      "properties": {
+        "id": "JQ-061",
+        "name": "Syni Vody / Blue Waters",
+        "book_entry": "Syni Vody",
+        "year_start": 1362,
+        "year_end": 1362,
+        "book_date": "1362",
+        "modern_country": "Ukraine",
+        "summary": "Lithuanian forces defeated the Golden Horde; the precise site is debated.",
+        "pdf_page": 1040,
+        "printed_page": 983,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Battle of Blue Waters",
+        "coordinate_source": "https://en.wikipedia.org/?curid=16102383",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Disputed battle location. Coordinate is a published reference point, not a verified site.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Russian-Mongol Wars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.27972,
+          41.31111
+        ]
+      },
+      "properties": {
+        "id": "JQ-062",
+        "name": "Tashkent",
+        "book_entry": "Tashkent",
+        "year_start": 1365,
+        "year_end": 1365,
+        "book_date": "1365",
+        "modern_country": "Uzbekistan",
+        "summary": "Ilyas Khoja defeated the forces of Timur and Husayn near Tashkent.",
+        "pdf_page": 1057,
+        "printed_page": 1000,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Tashkent",
+        "coordinate_source": "https://en.wikipedia.org/?curid=57533",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Conquests of Tamerlane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.48694,
+          47.9375
+        ]
+      },
+      "properties": {
+        "id": "JQ-063",
+        "name": "Combat of the Thirty",
+        "book_entry": "Thirty",
+        "year_start": 1351,
+        "year_end": 1351,
+        "book_date": "1351",
+        "modern_country": "France",
+        "summary": "A Breton contingent defeated its opponents in an arranged combat between two groups of thirty.",
+        "pdf_page": 1071,
+        "printed_page": 1014,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Combat of the Thirty",
+        "coordinate_source": "https://en.wikipedia.org/?curid=615905",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.38806,
+          50.60556
+        ]
+      },
+      "properties": {
+        "id": "JQ-064",
+        "name": "Tournai",
+        "book_entry": "Tournai",
+        "year_start": 1340,
+        "year_end": 1340,
+        "book_date": "1340",
+        "modern_country": "Belgium",
+        "summary": "The siege ended with a truce and the city's defenders held out.",
+        "pdf_page": 1087,
+        "printed_page": 1030,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Tournai",
+        "coordinate_source": "https://en.wikipedia.org/?curid=175362",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.87222,
+          43.99306
+        ]
+      },
+      "properties": {
+        "id": "JQ-065",
+        "name": "Vidin",
+        "book_entry": "Vidin",
+        "year_start": 1366,
+        "year_end": 1366,
+        "book_date": "1366",
+        "modern_country": "Bulgaria",
+        "summary": "Hungarian forces captured the city; the book dates this entry to 1366.",
+        "pdf_page": 1129,
+        "printed_page": 1072,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date retained; prioritize independent date/event verification",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Vidin",
+        "coordinate_source": "https://en.wikipedia.org/?curid=296911",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Ottoman Conquest of the Balkans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.29917,
+          57.63472
+        ]
+      },
+      "properties": {
+        "id": "JQ-066",
+        "name": "Visby",
+        "book_entry": "Visby",
+        "year_start": 1361,
+        "year_end": 1361,
+        "book_date": "1361",
+        "modern_country": "Sweden",
+        "summary": "Danish forces defeated the Gotland defenders and secured the city.",
+        "pdf_page": 1138,
+        "printed_page": 1081,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Visby",
+        "coordinate_source": "https://en.wikipedia.org/?curid=48098",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Wars of the Hanseatic League"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7088,
+          50.9251
+        ]
+      },
+      "properties": {
+        "id": "JQ-067",
+        "name": "Winchelsea",
+        "book_entry": "Winchelsea",
+        "year_start": 1350,
+        "year_end": 1350,
+        "book_date": "1350",
+        "modern_country": "United Kingdom",
+        "summary": "Edward III's fleet defeated Castilian ships offshore.",
+        "pdf_page": 1163,
+        "printed_page": 1106,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Winchelsea",
+        "coordinate_source": "https://en.wikipedia.org/?curid=382017",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hundred Years War"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2275,
+          44.11417
+        ]
+      },
+      "properties": {
+        "id": "JQ-068",
+        "name": "Zara / Zadar",
+        "book_entry": "Zara",
+        "year_start": 1346,
+        "year_end": 1346,
+        "book_date": "1346",
+        "modern_country": "Croatia",
+        "summary": "Venetian forces defeated a Hungarian relief army during the siege.",
+        "pdf_page": 1187,
+        "printed_page": 1130,
+        "source": "Tony Jaques, Dictionary of Battles and Sieges (2007)",
+        "date_status": "Book date; not independently validated",
+        "geocode_status": "Approximate reference point",
+        "geocode_place": "Zadar",
+        "coordinate_source": "https://en.wikipedia.org/?curid=292128",
+        "coordinate_retrieved": "2026-11-02",
+        "location_note": "Reference coordinate from the cited place or event page; no exact battlefield claim. Naval events and lake battles are not located precisely.",
+        "deaths_military_low": null,
+        "deaths_military_high": null,
+        "deaths_civilian_low": null,
+        "deaths_civilian_high": null,
+        "deaths_total_low": null,
+        "deaths_total_high": null,
+        "severity_status": "Unknown / not validated",
+        "validation_status": "Prototype; requires historical and geospatial review",
+        "conflict": "Hungarian-Venetian Wars"
+      }
+    }
+  ]
+}
