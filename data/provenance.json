@@ -1,0 +1,16 @@
+{
+  "status": "research prototype",
+  "prepared": "2026-11-02",
+  "source_pdf": "Dictionary of Battles.pdf",
+  "source_sha256": "146f759eaf70cfa4c76e07281a8483f3b0d97727d0db33ec3305a8be3fed3dcb",
+  "pdf_pages": 1412,
+  "year_start": 1340,
+  "year_end": 1370,
+  "endpoint_rule": "inclusive, overlapping intervals",
+  "substantive_entries": 68,
+  "mapped_reference_points": 64,
+  "excluded_cross_references": 21,
+  "independently_validated_death_estimates": 0,
+  "basemap": "@d3-maps/atlas@1.0.0/world/countries/countries-110m",
+  "geocode_sources": "Wikipedia GeoData and Wikidata P625; per-event URLs recorded"
+}
